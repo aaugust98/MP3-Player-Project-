@@ -9,6 +9,7 @@ Python 3.7.3
 
 # Dependencies
 • Tkinter
+
 • pygame
 
 # Simple Functions 
