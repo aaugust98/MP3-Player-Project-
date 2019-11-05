@@ -1,3 +1,5 @@
+git clone https://github.com/psawicki5/Python-GUI-mp3-Player.git
+
 from mutagen.easyid3 import EasyID3
 import pygame
 from tkinter.filedialog import *
