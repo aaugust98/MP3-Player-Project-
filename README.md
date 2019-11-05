@@ -27,9 +27,13 @@ Shortcut keys if the player is on top and has the focus
 
 # Features 
 •Playback from last point
+
 •Keeps a playlist of all songs
+
 •Includes cover art for album 
+
 •Remembers playback location and volume for each title
+
 •Runs on Windows and Linux
 
 # Support & Troubleshooting
