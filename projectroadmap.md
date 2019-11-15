@@ -2,6 +2,6 @@
 2. * Research python modules needed in order to make the app functionable: Ambrielle *DONE*
 3. * Code and import modules from python into coding file. This will serve as the basics needed in order for the code to run successfully        : Connor *DONE*
 4. * Create code for GUI. This is how users will interact with the code and will need to be as user friendly as possible: Ambrielle *DONE*
-   5. * Code in buttons and personalize GUI for user interaction. This will be the look and feel of the code as well as make it our own. -          Connor *DONE*
-   6. * *Possible task* create playlist of songs for users This will increase a user friendly experice. - Ambrielle
+   5. - Code in buttons and personalize GUI for user interaction. This will be the look and feel of the code as well as make it our own. -          Connor *DONE*
+   6. - *Possible task* create playlist of songs for users This will increase a user friendly experice. - Ambrielle
 7. * Make display for the current song the user is listening to and metadata including artist, song title, track time. This will provide        users with song info. - Connor
