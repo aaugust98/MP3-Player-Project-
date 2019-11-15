@@ -1,4 +1,5 @@
-1. * create the team repository - Ambrielle *DONE*
+
+1. *  *DONE* create the team repository - Ambrielle 
 2. * Research python modules needed in order to make the app functionable: Ambrielle *DONE*
 3. * Code and import modules from python into coding file. This will serve as the basics needed in order for the code to run successfully        : Connor *DONE*
 4. * Create code for GUI. This is how users will interact with the code and will need to be as user friendly as possible: Ambrielle *DONE*
