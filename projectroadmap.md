@@ -1,4 +1,4 @@
-1. [x] create the team repository - Ambrielle
+1. * create the team repository - Ambrielle
 2. [x] Research python modules needed in order to make the app functionable: Ambrielle
 3. [x] Code and import modules from python into coding file. This will serve as the basics needed in order for the code to run successfully        : Connor 
 4. [x] Create code for GUI. This is how users will interact with the code and will need to be as user friendly as possible: Ambrielle 
