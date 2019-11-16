@@ -8,7 +8,7 @@
    7. - *[Pending Review]* Design the song database: Connor 
    7. - *Possible task* create playlist of songs for users. This will increase a user friendly experice. - Ambrielle
 8. * Make display for the current song the user is listening to and metadata including artist, song title, track time. This will provide users with song info: Connor
-9. * QA/Test the code: Ambrielle & Connor 
-10. * Debug and make changes to the code as needed: Ambrielle & Connor
-11. * Write a page describing different tags used in github repositories: Ambrielle 
-12. * Push out the MP3 Player and gain user feedback 
+9. * QA/Test the code for any issues - this prevents the completed code from having problems and mistakes: Ambrielle & Connor 
+10. * Debug and make changes to the code as needed to ensure good quality and accuracy: Ambrielle & Connor
+11. * Write a page describing different tags used in github repositories for usability and reference: Ambrielle 
+12. * Push out the MP3 Player and gain user feedback for future improvements: Connor
